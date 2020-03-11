@@ -1,0 +1,46 @@
+body {
+    width: 1000px;
+    margin: auto;
+    background-color: aliceblue;
+}
+
+img {
+    width: 100%;
+}
+
+#gerecht {
+    font-family: Arial;
+}
+
+.ondertitel {
+    font-family: Arial;
+    color: darkdarkblue;
+}
+
+ol, ul, p {
+    font-size: medium;
+    font-weight: 100;
+    font-family: Arial;
+}
+
+.container {
+    display: flex;
+}
+
+#ingredienten {
+    background-color:lightblue;
+    color:darkdarkblue;
+    padding:20px;
+    width: 400px; 
+    padding-left: 30px; 
+    padding-right: 30px;
+}
+
+#stapvoorstap {
+    background-color:lightgray;
+    color:darkdarkblue;
+    padding:20px;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
