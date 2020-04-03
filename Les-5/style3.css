@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+}
+
+main {
+    width: 800px;
+    height: 800px;
+    background: black;
+}
+
+.box {
+    float:left;
+}
+
+#box1 {
+    height: 800px;
+    width: 194px;
+    background: yellow;
+}
+#box2 {
+    height: 600px;
+    width: 194px;
+    background: blue;
+    margin-left: 8px;
+}
+
+#box3 {
+    height: 400px;
+    width: 194px;
+    background: red;
+    margin-left: 8px;
+}
+
+#box4 {
+    height: 196px;
+    width: 194px;
+    background: white;
+    margin-left: 8px;
+}
+
+#box5 {
+    height: 196px;
+    width: 194px;
+    background: yellow;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+#box6 {
+    height: 192px;
+    width: 396px;
+    background: white;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+#box7 {
+    height: 192px;
+    width: 396px;
+    background: black;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+#box8 {
+    height: 196px;
+    width: 194px;
+    background: yellow;
+    margin-left: 8px;
+    margin-top: 8px;
+}
